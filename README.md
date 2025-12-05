@@ -73,4 +73,4 @@ The datasets are integrated, enriched, stored in a database, and analyzed to pro
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/aronetommaso/DataMan-Project.git
