@@ -1,0 +1,833 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump’s pro-crypto policies evaporated.",
+                "byline": {
+                    "original": "By David Yaffe-Bellany and Kailyn Rhone"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.",
+                    "kicker": "",
+                    "print_headline": "Those Sky-High Prices Forecast for Bitcoin? They Didn’t Pan Out."
+                },
+                "_id": "nyt://article/8e021b81-4ea1-5475-b807-1ae1c42219b5",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "World Liberty Financial",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Saylor, Michael J",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Economy",
+                        "rank": 9
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/12/02/multimedia/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price-articleLarge-v14.png",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/12/02/multimedia/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price-thumbStandard-v14.png",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "1",
+                "print_section": "B",
+                "pub_date": "2025-12-03T10:02:24Z",
+                "section_name": "Technology",
+                "snippet": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump’s pro-crypto policies evaporated.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/8e021b81-4ea1-5475-b807-1ae1c42219b5",
+                "web_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+                "word_count": 798
+            },
+            {
+                "abstract": "In the Trump administration’s latest example of dialing back cryptocurrency enforcement, Roger Ver agreed to pay about $48 million to end a tax fraud case.",
+                "byline": {
+                    "original": "By Kenneth P. Vogel and David Yaffe-Bellany"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Crypto Investor Known as ‘Bitcoin Jesus’ Reaches Deal With Prosecutors",
+                    "kicker": "",
+                    "print_headline": "Crypto Investor Will Pay To Settle Tax Fraud Case"
+                },
+                "_id": "nyt://article/927fd981-6216-50dd-9f3d-b89fdff7c84c",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Tax Evasion",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Securities and Exchange Commission",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Justice Department",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Ver, Roger (Bitcoin Jesus)",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 9
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Roger Ver, shown in 2013, was charged with fraud and tax evasion for failing to pay $48 million in taxes that he owed on his cryptocurrency holdings.",
+                    "credit": "Danny Lee/South China Morning Post, via Getty Images",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/10/09/multimedia/09crypto-ver-pclj/09crypto-ver-pclj-articleLarge.jpg",
+                        "height": 395,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/10/09/multimedia/09crypto-ver-pclj/09crypto-ver-pclj-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "4",
+                "print_section": "B",
+                "pub_date": "2025-10-09T20:09:51Z",
+                "section_name": "Technology",
+                "snippet": "In the Trump administration’s latest example of dialing back cryptocurrency enforcement, Roger Ver agreed to pay about $48 million to end a tax fraud case.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/927fd981-6216-50dd-9f3d-b89fdff7c84c",
+                "web_url": "https://www.nytimes.com/2025/10/09/technology/roger-ver-bitcoin-justice-department-deal.html",
+                "word_count": 628
+            },
+            {
+                "abstract": "Larry Fink and Brian Armstrong haven’t always agreed on crypto, but the business leaders’ embrace of the asset has helped bring it into the mainstream.",
+                "byline": {
+                    "original": "By Niko Gallogly"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "The Chiefs of BlackRock and Coinbase Dismiss Fears of a Coming Crypto Winter",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/6c77ed6c-5b89-53d5-a7df-6ff236554cad",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "BlackRock Inc",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Coinbase Inc",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Armstrong, Brian (1983- )",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Fink, Laurence D",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Andrew Ross Sorkin speaking to Brian Armstrong, chief executive of Coinbase, and Larry Fink, the chief executive of BlackRock.",
+                    "credit": "Karsten Moran for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-12-03T17:09:19Z",
+                "section_name": "Business",
+                "snippet": "Larry Fink and Brian Armstrong haven’t always agreed on crypto, but the business leaders’ embrace of the asset has helped bring it into the mainstream.",
+                "source": "The New York Times",
+                "subsection_name": "DealBook",
+                "type_of_material": "News",
+                "uri": "nyt://article/6c77ed6c-5b89-53d5-a7df-6ff236554cad",
+                "web_url": "https://www.nytimes.com/2025/12/03/business/dealbook/blackrock-coinbase-crypto-dealbook-summit.html",
+                "word_count": 406
+            },
+            {
+                "abstract": "Bitcoin and other digital tokens have lost more than $1 trillion in value in recent weeks, raising concerns about a wider market fallout.",
+                "byline": {
+                    "original": "By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Ian Mount and Grady McGregor"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Why Crypto’s Slide Is Rattling Wall Street",
+                    "kicker": "DealBook Newsletter",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/9d6dfc10-5852-51b1-a582-4b263d677068",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Stocks and Bonds",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Exchange Traded Funds",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "BlackRock Inc",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Fidelity Investments",
+                        "rank": 6
+                    }
+                ],
+                "multimedia": {
+                    "caption": "A recent slump in crypto prices has rattled investors.",
+                    "credit": "Gabriela Bhaskar/The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24db-btc-wcqh/24db-btc-wcqh-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24db-btc-wcqh/24db-btc-wcqh-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-11-24T13:04:58Z",
+                "section_name": "Business",
+                "snippet": "Bitcoin and other digital tokens have lost more than $1 trillion in value in recent weeks, raising concerns about a wider market fallout.",
+                "source": "The New York Times",
+                "subsection_name": "DealBook",
+                "type_of_material": "News",
+                "uri": "nyt://article/9d6dfc10-5852-51b1-a582-4b263d677068",
+                "web_url": "https://www.nytimes.com/2025/11/24/business/dealbook/bitcoin-crypto-wall-street.html",
+                "word_count": 1977
+            },
+            {
+                "abstract": "Escaping zipties, hiring bodyguards and other practical lessons in self-defense for crypto traders, after a series of gruesome crimes spooked the community.",
+                "byline": {
+                    "original": "By David Yaffe-Bellany and Maurizio Fiorino"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "How to Not Get Kidnapped for Your Bitcoin",
+                    "kicker": "",
+                    "print_headline": "Bitcoin Investors’ New Worry: Kidnappers"
+                },
+                "_id": "nyt://article/df870ae5-b979-511d-a198-b247d7f0721c",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "audio-neutral-informative",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Kidnapping and Hostages",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Robberies and Thefts",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Assaults",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Self-Defense",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Conventions, Fairs and Trade Shows",
+                        "rank": 8
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Kevin Harris, a security consultant, pushing a metal tool into a ziptie during a training workshop in Switzerland.",
+                    "credit": "Maurizio Fiorino for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/11/23/multimedia/17biz-crypto-abduction-20-kpjc/17biz-crypto-abduction-20-kpjc-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/11/23/multimedia/17biz-crypto-abduction-20-kpjc/17biz-crypto-abduction-20-kpjc-thumbStandard-v2.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "SundayBusiness",
+                "print_page": "4",
+                "print_section": "BU",
+                "pub_date": "2025-11-17T05:01:20Z",
+                "section_name": "Business",
+                "snippet": "Escaping zipties, hiring bodyguards and other practical lessons in self-defense for crypto traders, after a series of gruesome crimes spooked the community.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/df870ae5-b979-511d-a198-b247d7f0721c",
+                "web_url": "https://www.nytimes.com/2025/11/17/business/how-to-not-get-kidnapped-for-your-bitcoin.html",
+                "word_count": 1374
+            },
+            {
+                "abstract": "The debut of American Bitcoin, a mining firm backed by Eric Trump and Donald Trump Jr., has heightened the ethical concerns swirling around the Trump presidency.",
+                "byline": {
+                    "original": "By David Yaffe-Bellany"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "The Trumps Promote a New Crypto Venture: Bitcoin Mining",
+                    "kicker": "",
+                    "print_headline": "The Trumps Promote  Bitcoin Mining Venture"
+                },
+                "_id": "nyt://article/4328968d-d778-573a-a3bc-561edbd600b4",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Conflicts of Interest",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Customs (Tariff)",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "American Bitcoin Corp",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Bitmain Technologies Ltd",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J Jr",
+                        "rank": 10
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Eric F (1984- )",
+                        "rank": 11
+                    },
+                    {
+                        "name": "Location",
+                        "value": "China",
+                        "rank": 12
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Eric Trump spoke on a panel with his brother Donald Trump Jr. at Bitcoin 2025 in Las Vegas last month.",
+                    "credit": "Gabriela Bhaskar/The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/06/12/multimedia/00biz-american-bitcoin-cqhz/00biz-american-bitcoin-cqhz-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/06/12/multimedia/00biz-american-bitcoin-cqhz/00biz-american-bitcoin-cqhz-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "1",
+                "print_section": "B",
+                "pub_date": "2025-06-16T15:07:17Z",
+                "section_name": "Technology",
+                "snippet": "The debut of American Bitcoin, a mining firm backed by Eric Trump and Donald Trump Jr., has heightened the ethical concerns swirling around the Trump presidency.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/4328968d-d778-573a-a3bc-561edbd600b4",
+                "web_url": "https://www.nytimes.com/2025/06/16/technology/trump-american-bitcoin-mining.html",
+                "word_count": 1432
+            },
+            {
+                "abstract": "American Bitcoin, a cryptocurrency firm co-founded by Eric Trump, said it was merging with a company traded on the Nasdaq, the latest expansion of the family’s investments in crypto.",
+                "byline": {
+                    "original": "By David Yaffe-Bellany and Kenneth P. Vogel"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Trump Family Bitcoin Company Announces Plan to Go Public",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/eddfa4c8-5f11-59cf-b94c-7de09dfe66df",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "American Bitcoin Corp",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "World Liberty Financial",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J Jr",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Eric F (1984- )",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "An attendee at a Bitcoin conference in Abu Dhabi, United Arab Emirates, last year.",
+                    "credit": "Tamir Kalifa for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trump-bitcoin-gqck/12dc-trump-bitcoin-gqck-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trump-bitcoin-gqck/12dc-trump-bitcoin-gqck-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-12T18:56:48Z",
+                "section_name": "Business",
+                "snippet": "American Bitcoin, a cryptocurrency firm co-founded by Eric Trump, said it was merging with a company traded on the Nasdaq, the latest expansion of the family’s investments in crypto.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/eddfa4c8-5f11-59cf-b94c-7de09dfe66df",
+                "web_url": "https://www.nytimes.com/2025/05/12/business/trump-american-bitcoin-crypto.html",
+                "word_count": 393
+            },
+            {
+                "abstract": "The kiosks, which resemble conventional A.T.M.s and convert cash into virtual currencies, are increasingly under scrutiny as a tool for scammers.",
+                "byline": {
+                    "original": "By Cameron Fozi, Chloe Rosenberg and Reeno Hashimoto"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
+                    "kicker": "",
+                    "print_headline": "Cryptocurrency A.T.M.s Under Scrutiny as Scammers Cash Out"
+                },
+                "_id": "nyt://article/84e85100-890c-5b60-bcb6-009e3f323d9c",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "State Legislatures",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Automated Teller Machines",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Frauds and Swindling",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Robberies and Thefts",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Bitcoin Depot",
+                        "rank": 10
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Byte Federal",
+                        "rank": 11
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "CoinFlip (GPD Holdings LLC)",
+                        "rank": 12
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Coinme",
+                        "rank": 13
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Athena Bitcoin",
+                        "rank": 14
+                    }
+                ],
+                "multimedia": {
+                    "caption": "A Bitcoin A.T.M. in a convenience store in Miami. Crypto A.T.M. operators are in at least 28,000 locations, according to Treasury Department data.",
+                    "credit": "Joe Raedle/Getty Images",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/11/17/multimedia/BIZ-CRYPTO-ATM-03-cjqg/BIZ-CRYPTO-ATM-03-cjqg-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/11/17/multimedia/BIZ-CRYPTO-ATM-03-cjqg/BIZ-CRYPTO-ATM-03-cjqg-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "1",
+                "print_section": "B",
+                "pub_date": "2025-11-17T05:01:20Z",
+                "section_name": "Technology",
+                "snippet": "The kiosks, which resemble conventional A.T.M.s and convert cash into virtual currencies, are increasingly under scrutiny as a tool for scammers.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/84e85100-890c-5b60-bcb6-009e3f323d9c",
+                "web_url": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html",
+                "word_count": 1208
+            },
+            {
+                "abstract": "The deal is the latest move by companies partly owned by President Trump and members of his family to invest in crypto currency.",
+                "byline": {
+                    "original": "By Matthew Goldstein"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Trump Media Raises Money to Buy $2.5 Billion in Bitcoin",
+                    "kicker": "",
+                    "print_headline": "Trump Firm To Venture Into Bitcoin"
+                },
+                "_id": "nyt://article/9a45c688-fec0-538b-92a7-0fcddd68a93a",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Stocks and Bonds",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Politics and Government",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Trump Media & Technology Group",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Truth Social (Social Network)",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "President Trump and his family have become more involved in a number of crypto companies.",
+                    "credit": "Yuki Iwamura/Bloomberg",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27biz-trumpmedia-bitcoin-01-ptbk/27biz-trumpmedia-bitcoin-01-ptbk-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27biz-trumpmedia-bitcoin-01-ptbk/27biz-trumpmedia-bitcoin-01-ptbk-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "1",
+                "print_section": "B",
+                "pub_date": "2025-05-27T15:43:30Z",
+                "section_name": "Business",
+                "snippet": "The deal is the latest move by companies partly owned by President Trump and members of his family to invest in crypto currency.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/9a45c688-fec0-538b-92a7-0fcddd68a93a",
+                "web_url": "https://www.nytimes.com/2025/05/27/business/trump-media-bitcoin.html",
+                "word_count": 880
+            },
+            {
+                "abstract": "The rapid drop shows that cryptocurrencies, which the president has promoted, are subject to the same market gyrations as any other risky asset.",
+                "byline": {
+                    "original": "By David Yaffe-Bellany"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Bitcoin Is Down 10% Since Trump’s Global Tariff Announcement",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/eb45bca9-4afd-538b-8393-aee0a5fda877",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Bitcoin (Currency)",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Virtual Currency",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "International Trade and World Market",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Prices (Fares, Fees and Rates)",
+                        "rank": 4
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Bitcoin at a cryptocurrency exchange.",
+                    "credit": "Dale De La Rey/Agence France-Presse — Getty Images",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-crypto-jvlb/07markets-tariffs-crypto-jvlb-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-crypto-jvlb/07markets-tariffs-crypto-jvlb-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-04-07T02:37:00Z",
+                "section_name": "Business",
+                "snippet": "The rapid drop shows that cryptocurrencies, which the president has promoted, are subject to the same market gyrations as any other risky asset.",
+                "source": "The New York Times",
+                "subsection_name": "Economy",
+                "type_of_material": "News",
+                "uri": "nyt://article/eb45bca9-4afd-538b-8393-aee0a5fda877",
+                "web_url": "https://www.nytimes.com/2025/04/06/business/economy/trump-bitcoin-crypto-tariffs.html",
+                "word_count": 262
+            }
+        ],
+        "metadata": {
+            "hits": 3113,
+            "offset": 0,
+            "time": 163
+        }
+    }
+}
