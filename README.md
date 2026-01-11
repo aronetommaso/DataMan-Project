@@ -1,7 +1,10 @@
 # Bitcoin Market Analysis and News Integration
 
+## Author
+This project was developed by **Tommaso Arone**, **Lorenzo Triolo**, and **Lorenzo Zanotti**
+
 ## Overview
-This project focuses on collecting, integrating, and analyzing data from multiple sources to explore the Bitcoin market and related news. The project fulfills academic requirements for data collection, integration, quality assessment, and exploratory analysis.  
+This project focuses on collecting, integrating, and analyzing data from multiple sources to explore the Bitcoin market and related news. The project fulfills academic requirements for data collection, integration, quality assessment, and exploratory analysis.
 
 Two data sources were chosen:  
 1. **Bitcoin market data** from Binance API  
